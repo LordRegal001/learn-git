@@ -1,0 +1,18 @@
+table{
+    width: 300px;
+    height:150px;
+    border: 10pt thick cyan;
+    background-color: brown;
+
+
+}span{
+    color:yellow;
+    background-color:black;
+}
+
+img{
+    width: 200px;
+    height: 100px;
+    border-style: dashed;
+
+}
